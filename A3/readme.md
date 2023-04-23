@@ -1,4 +1,4 @@
-Name: Carson Mifsud ( 1089936 )
+Name: Carson Mifsud (  )
 Date: 2021-19-11
 Description: This program uses a depth first search algorithm to create a path through a two-dimensional array, which represents a 2D maze. This program compiles into two executables. The serial executable is named maze and the parallel executable is called mazep which Open MP was used to parallelize the algorithm. This program can accept the -n flag followed by an integer to represent the grid size. This program can accept the -s flag followed by an integer to seed the random generator for checking the neighbours of a certain index. The serial executable will print the final maze, and the parallel executable will print the final maze as well and the number of times each thread claimed a neighbour.
 
