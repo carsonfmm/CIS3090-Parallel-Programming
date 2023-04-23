@@ -1,4 +1,4 @@
-// Name: Carson Mifsud ( 1089936 )
+// Name: Carson Mifsud (  )
 // Date: 2021-02-11
 /* Description:  A parallel program using MPI that will use a brute-force decryption algorithm on the encrypted string in "ciphertext.txt". The 
  * program will decrypt the string read from "ciphertext.txt" and display all the valid decrypted values as well as its process rank. The SoCS system 
