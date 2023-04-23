@@ -1,4 +1,4 @@
-// Name: Carson Mifsud ( 1089936 )
+// Name: Carson Mifsud ( )
 // Date: 2021-13-10
 /* Description: This program is a data parallelism version of The Game of Life and uses the closed topology. The Game of Life is a cellular
  *              life and death simulation based on specific rules. Data parallelism is used in this program and the user will enter the
