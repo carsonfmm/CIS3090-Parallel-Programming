@@ -1,4 +1,4 @@
-// Name: Carson Mifsud ( 1089936 )
+// Name: Carson Mifsud (  )
 // Date: 2021-05-12
 /* Description: This is an OpenCL program written in C that implements the 1-D Game of Life cellular automation described by J. Millen. 
  * This program creates an image made up of ASCII characters by calculating one row at a time based upon the previous row. This program 
