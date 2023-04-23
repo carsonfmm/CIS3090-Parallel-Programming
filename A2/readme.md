@@ -1,4 +1,4 @@
-Name: Carson Mifsud ( 1089936 )
+Name: Carson Mifsud (  )
 Date: 2021-02-11
 Description a2encrypt: A serial program that will encrypt plain text entered by the user. This is done using a simple substitution cipher and will place 
 the encrypted string in the file called "ciphertext.txt". The encryption dictionary for this program was implemented via the use of arrays.
